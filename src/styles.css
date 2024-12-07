@@ -1,4 +1,5 @@
 /* Estilos generales */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -9,6 +10,7 @@ body {
     align-items: center;
     height: 100vh;
 }
+
 
 /* Estilos para el contenedor principal */
 #app {
@@ -58,6 +60,7 @@ li {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width:400px;
 }
 
 /* Estilos para cuando una tarea está completada */
